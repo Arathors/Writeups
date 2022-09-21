@@ -1,2 +1,2 @@
-# fantastic-train
+# CTF Writeups
 writeups for multiple CTF
