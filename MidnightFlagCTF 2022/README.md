@@ -1,3 +1,5 @@
+![banner](https://i.ibb.co/hFPd3zG/MCTF.png)
+
 # MidnightFlag  - INFEKTIONCTF
 
 MidnightFlag - INFEKTIONCTF is the second edition of the MidnightFlagCTF. It's an online cybersecurity competition for beginners or intermediates that takes place on the night of 23-24 April.
